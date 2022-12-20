@@ -1,0 +1,8 @@
+C:\Users\juyeongj\Documents\ReverseShell\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\juyeongj\Documents\ReverseShell\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\juyeongj\Documents\ReverseShell\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\juyeongj\Documents\ReverseShell\Client\bin\Debug\Client.exe.config
+C:\Users\juyeongj\Documents\ReverseShell\Client\bin\Debug\Client.exe
+C:\Users\juyeongj\Documents\ReverseShell\Client\bin\Debug\Client.pdb
+C:\Users\juyeongj\Documents\ReverseShell\Client\obj\Debug\Client.exe
+C:\Users\juyeongj\Documents\ReverseShell\Client\obj\Debug\Client.pdb
